@@ -9,3 +9,11 @@ Due to multiple factors, the dimensionality have been reduced down to two dimens
 For the supervised part, K-Neighbors-Classifier is used to predict the wine based on the actual values in the dataset. 
 
 At last, **confusion matrix** and **classification reports** have been created to give further insights.
+
+
+### Confusion Matrix
+![alt text here](ConfusionMatrix.png) 
+
+
+### Classification Report
+![alt text here](ClassificationReport.png)
